@@ -5,7 +5,7 @@ This repository contains `Python and Pytorch` code of Brayton Lordianto's work i
 
 Preview of Projects:
 <!-- ![alt text](images/image.png) -->
-| Visual Anagram 1 | Visual Anagram 2 | 
+| Visual Anagram 1 : Skull or Waterfall? | Visual Anagram 2 : Dog or Pencil? | 
 |:----------------:|:----------------:|
 | ![alt text](images/image-5.png) | ![alt text](images/image-6.png) |
 
