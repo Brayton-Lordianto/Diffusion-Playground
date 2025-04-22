@@ -3,11 +3,17 @@ This repository contains `Python and Pytorch` code of Brayton Lordianto's work i
 - training a diffusion model on MNIST data using DDPM (Denoising Diffusion Probabilistic Models) method. The underlying model is a U-Net architecture, and the models trained include an unconditional model, a time-conditioned model, and a class-conditioned model. The training process involves using a custom dataset and data loader, as well as implementing the diffusion process and loss functions.
 - generalizing the diffusion model above using Flow Matching, which states that any linear interpolation of the noise can be used to generate a new image, in which a DDPM is simply a special case of a flow matching model. 
 
+Preview of Projects:
+<!-- ![alt text](images/image.png) -->
+| Visual Anagram 1 | Visual Anagram 2 | Visual Anagram 3 |
+|:----------------:|:----------------:|:----------------:|
+| ![alt text](images/image-4.png) | ![alt text](images/image-5.png) | ![alt text](images/image-6.png) |
 
-![alt text](images/image.png)
-
+UNet Architecture:
 ![alt text](images/image-1.png)
 
+Loss Curves:
 ![alt text](images/image-2.png)
 
+Denoised Images:
 ![alt text](images/image-3.png)
