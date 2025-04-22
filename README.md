@@ -5,9 +5,9 @@ This repository contains `Python and Pytorch` code of Brayton Lordianto's work i
 
 Preview of Projects:
 <!-- ![alt text](images/image.png) -->
-| Visual Anagram 1 | Visual Anagram 2 | Visual Anagram 3 |
-|:----------------:|:----------------:|:----------------:|
-| ![alt text](images/image-4.png) | ![alt text](images/image-5.png) | ![alt text](images/image-6.png) |
+| Visual Anagram 1 | Visual Anagram 2 | 
+|:----------------:|:----------------:|
+| ![alt text](images/image-5.png) | ![alt text](images/image-6.png) |
 
 UNet Architecture:
 ![alt text](images/image-1.png)
