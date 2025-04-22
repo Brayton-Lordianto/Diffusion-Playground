@@ -2,3 +2,12 @@ This repository contains `Python and Pytorch` code of Brayton Lordianto's work i
 - using a pretrained DeepFloyd diffusion model to generate images and visual anagrams or hybrids. This entails implementing iterative denoising methods and Classifier-Free Guidance (CFG) to generate images from text prompts.
 - training a diffusion model on MNIST data using DDPM (Denoising Diffusion Probabilistic Models) method. The underlying model is a U-Net architecture, and the models trained include an unconditional model, a time-conditioned model, and a class-conditioned model. The training process involves using a custom dataset and data loader, as well as implementing the diffusion process and loss functions.
 - generalizing the diffusion model above using Flow Matching, which states that any linear interpolation of the noise can be used to generate a new image, in which a DDPM is simply a special case of a flow matching model. 
+
+
+![alt text](images/image.png)
+
+![alt text](images/image-1.png)
+
+![alt text](images/image-2.png)
+
+![alt text](images/image-3.png)
